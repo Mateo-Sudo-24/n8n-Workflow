@@ -74,5 +74,5 @@ Mateo Paredes
 Tecnólogo en Desarrollo de Software  
 Interesado en automatización, backend y arquitectura de sistemas.
 
-GitHub: https://github.com/tuusuario
-LinkedIn: https://linkedin.com/in/tuusuario
+GitHub: https://github.com/Mateo-Sudo-24
+LinkedIn: www.linkedin.com/in/mateo-plinkeind
